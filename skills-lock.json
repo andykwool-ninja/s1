@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "generate-personalized-gift": {
+      "source": "clay-run/clay-skill-creator",
+      "sourceType": "github",
+      "skillPath": "skills/lorcan-o-rourke/generate-personalized-gift/SKILL.md",
+      "computedHash": "349e9d6a3b943d6830c15671f19489d7357e0cf8c448da7cd830a693b3b9ad11"
+    }
+  }
+}
